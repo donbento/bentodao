@@ -1,2 +1,2 @@
-# bentodao
-bentodao official repository
+# BentoDAO
+BentoDAO official repository
