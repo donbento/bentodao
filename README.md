@@ -13,10 +13,15 @@ Visit Shop.BentoDAO.com : https://shop.bentodao.com
 For Restaurant : Application Form for Restaurant Google Form
 Gallery on Site : NFT Gallery at Bento DAO
 
+
 Visit OpenSea Shop : https://opensea.io/collection/bentodao1
+
 Visit OpenSea Shop : https://opensea.io/collection/bentodao2
+
 Visit OpenSea Shop : https://opensea.io/collection/bentodao-3
+
 Visit OpenSea Shop : https://opensea.io/collection/bentodao5-1
+
 Visit OpenSea Shop : https://opensea.io/collection/bentodao6
 
 Join Discord : https://discord.gg/eQBvG4J4yx
